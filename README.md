@@ -1,16 +1,14 @@
-## Hi there 👋
+![404-error-purple-3840x2160-18308](https://github.com/user-attachments/assets/343b0b62-732a-4b92-bf6f-dad32736d016)
 
-<!--
-**Lucas-souza-021/Lucas-souza-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">  	👾 !! Seja bem vindo ao meu perfil !!  	👾<br>
+<br>
+</div>
+<h2>🏄Sobre mim</h2>
+</div>
+Sou um mini programador que estuda no IFTM -Campus Patrocínio- no curso de informática do 2º ano. Atualmente pretendo seguir na área de TI, mas ainda não tenho muita certeza.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+  
+![Lucas-souza-021 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-souza-021&show_icons=true&theme=react)
