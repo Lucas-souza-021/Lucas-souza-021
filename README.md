@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas ! ☀️
+# 🏖️ Opa, seja Bem-Vindo ao meu perfil, sou Lucas 
 
 ![614314](https://github.com/user-attachments/assets/f4bdffca-1fdf-4579-bd12-641b098f3010)
 
@@ -17,31 +17,30 @@
 ---
 
 ### 🛠️ Ferramentas do dia-a-dia
-Aqui estão alguns sites/apps que utilizo para meu uso diario:
 
 <p align="left">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-217346?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Estatísticas e Energia
 <p align="center">
-
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-souza-021&theme=iceberg"/>
+ 
+</div>
 </p>
 
 ---
 
 ### 📫 Redes Sociais:
-<p align="left">
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
+<div align="center">
+   
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_gabriel_0521/)
+   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://www.gmail.com)
+   [![My Skills](https://skillicons.dev/icons?i=yt,spotify)](https://skillicons.dev)
+   
+</div>
