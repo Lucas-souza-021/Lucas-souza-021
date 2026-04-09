@@ -18,7 +18,7 @@
 
 ### 🛠️ Ferramentas do dia-a-dia
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-217346?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
